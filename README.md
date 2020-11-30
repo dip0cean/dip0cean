@@ -1,5 +1,8 @@
 ### Hi there 👋
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dip0cean)](https://solved.ac/profile/dip0cean)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dip0cean&show_icons=true&locale=en&layout=compact" alt="dip0cean" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></p>
 <!--
 **dip0cean/dip0cean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
