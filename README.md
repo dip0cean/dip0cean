@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white">
   
   <br><br>
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
 
   <ul align="left">
     <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
@@ -22,6 +20,8 @@
     <br>
     <li align="left"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
   </ul>
+  
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
   
   <br>
   
