@@ -1,6 +1,6 @@
 <h1 align="center">🌏 Hello, World</h1>
 
-<h2 align="center">🚀 Adventure is always fun.</h2>
+<h3 align="center">🚀 Adventure is always fun.</h3>
 <h3 align="center">A back-end developer who is constantly striving to grow</h3>
 
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red)
