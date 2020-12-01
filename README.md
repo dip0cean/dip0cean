@@ -8,6 +8,13 @@
   <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white">
+  
+  <br>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
+  
+  <br>
+  
   <ul>
     <li>🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
     <li>📝 I regulary write articles on <a href="https://dip0cean.tistory.com/">https://dip0cean.tistory.com/</a></li>
@@ -15,6 +22,7 @@
     <li> 📄 Know about my experiences <a href="dip0cean.github.io">dip0cean.github.io</a></li>
   </ul>
 </p>
+
 <br>
   
 <p align="center">
@@ -62,4 +70,4 @@
 </p>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></p>
+<p></p>
