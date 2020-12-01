@@ -11,9 +11,9 @@
   
   <br><br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
   <br>
-  <ul align="center">
+  <ul align="left">
     <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
     <br>
     <li align="left">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
