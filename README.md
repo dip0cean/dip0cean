@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue)
 ---
 ### 🚀 함께하는 모험을 즐깁니다.
+####   Adventures are fun when they are together.
 
 
 |        Date       | Experience                                                                  | etc |
