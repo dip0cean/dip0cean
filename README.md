@@ -37,22 +37,22 @@
     </thead>
     <tbody>
       <tr>
-        <td class="tg-0pky">2011.02 ~ 2013.02</td>
+        <td class="tg-0pky" align="center">2011.02 ~ 2013.02</td>
         <td class="tg-0pky">Graduation from Kyunggi High School</td>
         <td class="tg-0pky"></td>
       </tr>
       <tr>
-        <td class="tg-0pky">2013.03 ~ 2018.02</td>
+        <td class="tg-0pky" align="center">2013.03 ~ 2018.02</td>
         <td class="tg-0pky">Graduated from the Department of Musicals at Seokyeong Univ College of Arts</td>
         <td class="tg-0pky"></td>
       </tr>
       <tr>
-        <td class="tg-0pky">2020.01 ~ 2020.02</td>
+        <td class="tg-0pky" align="center">2020.01 ~ 2020.02</td>
         <td class="tg-0pky">Musical &lt;은밀하게 위대하게 The Last&gt; Debut</td>
         <td class="tg-0pky"></td>
       </tr>
       <tr>
-        <td class="tg-0pky">2020.04 ~ 2020.09</td>
+        <td class="tg-0pky" align="center">2020.04 ~ 2020.09</td>
         <td class="tg-0pky">Completed the KH Information Training Institute Java Programming course</td>
         <td class="tg-0pky"></td>
       </tr>
