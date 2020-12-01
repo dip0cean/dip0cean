@@ -9,17 +9,20 @@
   <img src="https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white">
   
-  <br><br>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></div>
+  <br>
+  
 <div align="center">
-    <ul align="left">
-      <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
+</div>
+<div align="center">
+    <ul align="center">
+      <li align="center">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
       <br>
-      <li align="left">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
+      <li align="center">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
       <br>
-      <li align="left">📫 How to reach me <b>do.simsh@gmail.com</b></li>
+      <li align="center">📫 How to reach me <b>do.simsh@gmail.com</b></li>
       <br>
-      <li align="left"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
+      <li align="center"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
     </ul>
   </div>
   <br>
