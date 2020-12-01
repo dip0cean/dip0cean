@@ -11,22 +11,20 @@
   
   <br>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
+  <ul align="center">
+    <li align="center">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
+    <li align="center">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/">https://dip0cean.tistory.com/</a></li>
+    <li align="center">📫 How to reach me <b>do.simsh@gmail.com</b></li>
+    <li align="center"> 📄 Know about my experiences <a href="dip0cean.github.io">dip0cean.github.io</a></li>
+  </ul>
   
   <br>
   
-  <ul align="center">
-    <li>🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
-    <li>📝 I regulary write articles on <a href="https://dip0cean.tistory.com/">https://dip0cean.tistory.com/</a></li>
-    <li>📫 How to reach me <b>do.simsh@gmail.com</b></li>
-    <li> 📄 Know about my experiences <a href="dip0cean.github.io">dip0cean.github.io</a></li>
-  </ul>
-</p>
-
-<br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
   
-<p align="center">
-<table class="tg" align="center">
+  <br>
+  
+  <table class="tg" align="center">
 <thead>
   <tr>
     <th class="tg-c3ow">Date</th>
