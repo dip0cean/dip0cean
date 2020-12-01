@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white">
   
-  <br>
+  <br><br>
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
 
