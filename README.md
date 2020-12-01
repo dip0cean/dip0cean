@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white">
   
-  <br>
+  <br><br><br>
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
 
@@ -20,11 +20,7 @@
     <li align="center"> 📄 Know about my experiences <a href="dip0cean.github.io">dip0cean.github.io</a></li>
   </ul>
   
-  <br>
-  
-   
-  
-  <br>
+  <br><br><br>
   
   <table class="tg" align="center">
     <thead>
