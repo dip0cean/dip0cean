@@ -1,7 +1,7 @@
 <h1 align="center">🌏 Hello, World</h1>
 
 <h3 align="center">🚀 Adventure is always fun.</h3>
-<h3 align="center">A back-end developer who is constantly striving to grow</h3>
+<h3 align="center">💡 A back-end developer who is constantly striving to grow</h3>
 
 ---
 <p align="center">
@@ -16,11 +16,11 @@
   <ul align="left">
     <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
     <br>
-    <li align="left">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/">https://dip0cean.tistory.com/</a></li>
+    <li align="left">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
     <br>
     <li align="left">📫 How to reach me <b>do.simsh@gmail.com</b></li>
     <br>
-    <li align="left"> 📄 Know about my experiences <a href="dip0cean.github.io">dip0cean.github.io</a></li>
+    <li align="left"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
   </ul>
   
   <br><br><br>
@@ -57,12 +57,12 @@
         <td class="tg-0pky"></td>
       </tr>
       <tr>
-        <td class="tg-0pky">2020.07</td>
+        <td class="tg-0pky" align="center">2020.07</td>
         <td class="tg-0pky">KH Information Education Institute Best Performance Award</td>
         <td class="tg-0pky"></td>
       </tr>
       <tr>
-        <td class="tg-0pky">2020.09</td>
+        <td class="tg-0pky" align="center">2020.09</td>
         <td class="tg-0pky">정보처리기사 필기 합격</td>
         <td class="tg-0pky"></td>
       </tr>
