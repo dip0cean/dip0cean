@@ -1,9 +1,11 @@
 <h1 align="center">🌏 Hello, World</h1>
+
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red)
 ![Javascript](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow)
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue)
 ---
 <h2 align="center">🚀 Adventure is always fun.</h2>
+
 ---
 <h3 align="center">A back-end developer who is constantly striving to grow</h3>
 
