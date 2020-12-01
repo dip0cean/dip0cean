@@ -12,7 +12,6 @@
   <br><br>
 
 <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
     <ul align="left">
       <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
       <br>
@@ -68,4 +67,6 @@
       </tr>
     </tbody>
   </table>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
 </p>
