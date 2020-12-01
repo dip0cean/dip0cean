@@ -7,7 +7,7 @@
 
 ![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red?logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?loho=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white)
 
 - 🌱 I’m currently learning **Spring Boot, Node.js**
 
