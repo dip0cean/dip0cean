@@ -12,7 +12,7 @@
   <br><br>
 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
-  
+  <br>
   <ul align="right">
     <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
     <br>
