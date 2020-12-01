@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue?logo=python&logoColor=white">
   
   <br><br>
-
-<div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></div>
+<div align="center">
     <ul align="left">
       <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
       <br>
@@ -67,6 +67,4 @@
       </tr>
     </tbody>
   </table>
-  
-  <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></div>
 </p>
