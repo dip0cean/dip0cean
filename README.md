@@ -15,7 +15,7 @@
   
   <br>
   
-  <ul>
+  <ul align="center">
     <li>🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
     <li>📝 I regulary write articles on <a href="https://dip0cean.tistory.com/">https://dip0cean.tistory.com/</a></li>
     <li>📫 How to reach me <b>do.simsh@gmail.com</b></li>
@@ -26,7 +26,7 @@
 <br>
   
 <p align="center">
-<table class="tg">
+<table class="tg" align="center">
 <thead>
   <tr>
     <th class="tg-c3ow">Date</th>
@@ -68,6 +68,3 @@
 </tbody>
 </table>
 </p>
-
-<br>
-<p></p>
