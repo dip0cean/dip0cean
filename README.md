@@ -13,7 +13,6 @@
     <li>📝 I regulary write articles on <a href="https://dip0cean.tistory.com/">https://dip0cean.tistory.com/</a></li>
     <li>📫 How to reach me <b>do.simsh@gmail.com</b></li>
     <li> 📄 Know about my experiences <a href="dip0cean.github.io">dip0cean.github.io</a></li>
-    <li></li>
   </ul>
 </p>
 <br>
