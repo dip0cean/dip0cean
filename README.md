@@ -5,13 +5,9 @@
 
 ---
 
-<center>
-
-![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red)
+![Java](https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red?logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-yellow)
 ![Python](https://img.shields.io/badge/Python-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-blue)
-
-</center>
 
 - 🌱 I’m currently learning **Spring Boot, Node.js**
 
@@ -22,8 +18,6 @@
 - 📄 Know about my experiences [dip0cean.github.io](dip0cean.github.io)
 
 <br>
-
-<center>
   
 |        Date       | Experience                                                                  | etc |
 |:-----------------:|-----------------------------------------------------------------------------|-----|
@@ -34,9 +28,8 @@
 | 2020.07           | KH Information Education Institute Best Performance Award                   |     |
 | 2020.09           | 정보처리기사 필기 합격                                                      |     |
 
-</center>
-
 ---
+
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></p>
 
