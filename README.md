@@ -17,6 +17,7 @@
 
 <br>
 
+<center>
 |        Date       | Experience                                                                  | etc |
 |:-----------------:|-----------------------------------------------------------------------------|-----|
 | 2011.02 ~ 2013.02 | Graduation from Kyunggi High School                                         |     |
@@ -25,7 +26,7 @@
 | 2020.04 ~ 2020.09 | Completed the KH Information Training Institute Java Programming course     |     |
 | 2020.07           | KH Information Education Institute Best Performance Award                   |     |
 | 2020.09           | 정보처리기사 필기 합격                                                      |     |
-
+</center>
 ---
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" /></p>
