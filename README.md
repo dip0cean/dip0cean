@@ -16,7 +16,6 @@
 </div>
 <br>
 <div align="center">
-    <ul align="center">
       <li align="center">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
       <br>
       <li align="center">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
@@ -24,7 +23,6 @@
       <li align="center">📫 How to reach me <b>do.simsh@gmail.com</b></li>
       <br>
       <li align="center"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
-    </ul>
   </div>
   <br>
   
