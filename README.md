@@ -13,17 +13,17 @@
 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dip0cean&show_icons=true&locale=en" alt="dip0cean" />
 
-  <span align="left">
-  <ul align="left">
-    <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
-    <br>
-    <li align="left">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
-    <br>
-    <li align="left">📫 How to reach me <b>do.simsh@gmail.com</b></li>
-    <br>
-    <li align="left"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
-  </ul>
-  </span>
+  <div align="left" style="display: inline-block;">
+    <ul align="left">
+      <li align="left">🌱 I’m currently learning <b>Spring Boot, Node.js</b></li>
+      <br>
+      <li align="left">📝 I regulary write articles on <a href="https://dip0cean.tistory.com/"><b>https://dip0cean.tistory.com/</b></a></li>
+      <br>
+      <li align="left">📫 How to reach me <b>do.simsh@gmail.com</b></li>
+      <br>
+      <li align="left"> 📄 Know about my experiences <a href="dip0cean.github.io"><b>dip0cean.github.io</b></a></li>
+    </ul>
+  </div>
   <br>
   
   ---
