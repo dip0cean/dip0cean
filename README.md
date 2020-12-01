@@ -1,7 +1,7 @@
 <h1 align="center">🌏 Hello, World</h1>
 
-<h3 align="center">🚀 Adventure is always fun.</h3>
-<h3 align="center">💡 A back-end developer who is constantly striving to grow</h3>
+<h3 align="center">🚀 Adventure is always fun!</h3>
+<h3 align="center">💡 A back-end developer who is constantly striving to grow!</h3>
 
 ---
 <p align="center">
